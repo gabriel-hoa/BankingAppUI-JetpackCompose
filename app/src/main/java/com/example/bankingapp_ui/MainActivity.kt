@@ -3,8 +3,11 @@ package com.example.bankingapp_ui
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -32,25 +35,44 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    private fun setBarColor(color: Color) {
-
-    }
-
     @Composable
-    private fun SetBarColor(color: Color) {
+    private fun setBarColor(color: Color) {
         val systemUiController = rememberSystemUiController()
-         SideEffect {
-             systemUiController.setSystemBarsColor(
-                 color = color
-             )
-         }
+        SideEffect {
+            systemUiController.setSystemBarsColor(
+                color = color
+            )
+        }
+
     }
-
-
-
 }
 
+@Preview
+@Composable
+fun HomeScreen() {
+    Scaffold(
+        bottomBar = {
+            BottomNavigationBar()
 
+        }
+    ) { padding ->
+
+        Column (
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(padding)
+        ) {
+
+        //WalletSection()
+        //CardsSection()
+            Spacer(modifier = Modifier.height(16.dp))
+        //FinanceSection()
+        //WalletSection()
+
+        }
+
+    }
+}
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
