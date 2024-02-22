@@ -1,4 +1,4 @@
-package com.ahmedapps.bankningappui.ui.theme
+package com.example.bankingappui.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun BankningAppUITheme(
+fun BankingAppUITheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

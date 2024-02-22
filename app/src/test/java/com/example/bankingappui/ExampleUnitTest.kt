@@ -1,4 +1,4 @@
-package com.example.bankingapp_ui
+package com.example.bankingappui
 
 import org.junit.Test
 

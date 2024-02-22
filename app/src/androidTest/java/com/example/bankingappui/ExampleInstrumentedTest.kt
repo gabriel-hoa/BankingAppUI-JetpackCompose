@@ -1,4 +1,4 @@
-package com.example.bankingapp_ui
+package com.example.bankingappui
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
