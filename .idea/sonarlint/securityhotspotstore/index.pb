@@ -27,3 +27,7 @@ k
 ;app/src/main/java/com/example/bankingappui/WalletSection.kt,b/6/b674d0766f0b423fe4ec040e42502a8b349af8e8
 q
 Aapp/src/main/java/com/example/bankingappui/BottomNavigationBar.kt,e/5/e59facb1d1f21254c7aa3d229844db827a1774a3
+i
+9app/src/main/java/com/example/bankingappui/CardSection.kt,8/e/8ef39975535b45d9920b5d850a3eb3735b2463f4
+g
+7app/src/main/java/com/example/bankingappui/data/Card.kt,9/7/979d23509d38643c72ef513f26f6ab1825f34448
