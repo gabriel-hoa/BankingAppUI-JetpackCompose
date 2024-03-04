@@ -25,3 +25,5 @@ m
 =app/src/test/java/com/example/bankingappui/ExampleUnitTest.kt,0/6/06cbd58622128c69a0f1274ddcd8f8ff563cea55
 k
 ;app/src/main/java/com/example/bankingappui/WalletSection.kt,b/6/b674d0766f0b423fe4ec040e42502a8b349af8e8
+q
+Aapp/src/main/java/com/example/bankingappui/BottomNavigationBar.kt,e/5/e59facb1d1f21254c7aa3d229844db827a1774a3
