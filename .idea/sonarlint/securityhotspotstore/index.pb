@@ -13,8 +13,6 @@ l
 <app/src/main/java/com/example/bankingappui/ui/theme/Theme.kt,2/e/2ef8b2a8bda53e3d0bb132f266e9bb88ce9e8602
 l
 <app/src/main/java/com/example/bankingappui/ui/theme/Color.kt,4/2/42a1517ddf7c9c9b421ae54b70d1896ab6d45570
-n
->app/src/main/java/com/example/bankingappui/BottomNavigationBar,e/2/e26a8e5b28aa82971d4d456a02d4e0c0e64d9cba
 k
 ;app/src/main/java/com/example/bankingappui/ui/theme/Type.kt,e/2/e207df3fa8a6207064511bdeb120d36b937a42d9
 s
