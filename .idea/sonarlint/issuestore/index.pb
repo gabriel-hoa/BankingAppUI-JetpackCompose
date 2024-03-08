@@ -29,3 +29,7 @@ i
 9app/src/main/java/com/example/bankingappui/CardSection.kt,8/e/8ef39975535b45d9920b5d850a3eb3735b2463f4
 g
 7app/src/main/java/com/example/bankingappui/data/Card.kt,9/7/979d23509d38643c72ef513f26f6ab1825f34448
+l
+<app/src/main/java/com/example/bankingappui/FinanceSection.kt,8/0/8050d7201dfa39124b93b54f7c649ee9f9764c60
+j
+:app/src/main/java/com/example/bankingappui/data/Finance.kt,5/9/593c2e58a59f07322bd03fa00af9f29fb8bc92b9
