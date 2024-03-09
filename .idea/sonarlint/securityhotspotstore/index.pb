@@ -33,3 +33,7 @@ l
 <app/src/main/java/com/example/bankingappui/FinanceSection.kt,8/0/8050d7201dfa39124b93b54f7c649ee9f9764c60
 j
 :app/src/main/java/com/example/bankingappui/data/Finance.kt,5/9/593c2e58a59f07322bd03fa00af9f29fb8bc92b9
+o
+?app/src/main/java/com/example/bankingappui/CurrenciesSection.kt,7/4/7449aaa3287b645e1821442ba4625513beb14189
+k
+;app/src/main/java/com/example/bankingappui/data/Currency.kt,1/d/1d8f877ae779b6238e205973b9881ad3e5af861e
