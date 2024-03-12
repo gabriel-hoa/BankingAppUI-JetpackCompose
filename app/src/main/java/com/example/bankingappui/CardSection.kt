@@ -40,14 +40,14 @@ val cards = listOf(
         cardNumber = "1515 4254 4254 1515",
         cardName = "Business",
         balance = 6400.45,
-        color = getGradient(startColor = BlueStart, endColor = BlueEnd),
+        color = getGradient(startColor = OrangeStart, endColor = OrangeEnd),
     ),
     Card(
         cardType = "MASTER CARD",
         cardNumber = "2521 4242 4254 1515",
         cardName = "Saves",
         balance = 8550.00,
-        color = getGradient(startColor = OrangeStart, endColor = OrangeEnd),
+        color = getGradient(startColor = BlueStart, endColor = BlueEnd),
     ),
     Card(
         cardType = "VISA",

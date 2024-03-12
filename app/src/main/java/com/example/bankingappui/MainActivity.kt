@@ -1,7 +1,6 @@
 package com.example.bankingappui
 
 import android.os.Bundle
-import android.view.WindowInsets.Side
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Column
@@ -27,7 +26,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             BankingAppUITheme {
-                // A surface container using the 'background' color from the theme
 
                 SetBarColor(color = MaterialTheme.colorScheme.background)
                 Surface(
